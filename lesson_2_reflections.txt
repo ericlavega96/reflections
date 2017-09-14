@@ -15,10 +15,12 @@ organized? How would branches help?
 	
 
 How do the diagrams help you visualize the branch structure?
+	You can visualize how the commits are related with his branch , and see how this branches are connected.
 	
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The two branches get combine , and the result is stablish as the firs branch passed.Because we can see how the commits are connected.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
