@@ -4,3 +4,8 @@ Why might you want to always pull changes manually rather than having Git automa
 	Because if you are working in your local repository, and git makes pull automatically , the changes that I made in my local repository will be eliminated
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	The differences are that fork allows you to copy a repository from GitHub to your repositories in Github . On the other hand , clones allows you to copy a repository from a Git repository to your local machine , or clone a repository in your machine to another location. Finally , in the case of branches , this are like divisions in the main branch that allows us to make changes to the proyect without modifying the main branch.	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	The benefit is that you can decide if you want to merge it with the content of your local repository ot not.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	You have to send an email with the content or use drive to share the project, but this is not very efficient.Using this way , is easy to work alone , but when you want another person to collaborate , this method is more difficult compare with the use of git.
+	
