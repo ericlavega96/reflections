@@ -8,4 +8,7 @@ What is the benefit of having a copy of the last known state of the remote store
 	The benefit is that you can decide if you want to merge it with the content of your local repository ot not.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	You have to send an email with the content or use drive to share the project, but this is not very efficient.Using this way , is easy to work alone , but when you want another person to collaborate , this method is more difficult compare with the use of git.
-	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When you want to make a different version of the content that you have inside master.You can work in this alternative branch without modifying the content of master branch.
+
+
